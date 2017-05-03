@@ -1,0 +1,19 @@
+{
+  "name": "club-back-end",
+  "main": "server.js",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "godav",
+  "contributors": [
+    "eliezer505"
+  ],
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
