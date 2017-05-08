@@ -14,6 +14,7 @@
     "eliezer505"
   ],
   "dependencies": {
+    "cors": "^2.8.3",
     "express": "^4.15.2"
   }
 }
